@@ -1,7 +1,8 @@
 var tableLength = 12;
 var tourDestinations = ['coxsbazar', 'nepal', 'vutan', 'paris'];
 
-tourDestinations.indexOf('vutan');
+var indexOfVutan = tourDestinations.indexOf('vutan');
+console.log(indexOfVutan);
 
 var fourthDestination = tourDestinations[3];
 tourDestinations[1] = 'srilanka';

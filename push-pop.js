@@ -3,7 +3,7 @@ var lastBench = ['kalam', 'balam', 'salam'];
 lastBench.push('jalam');
 lastBench.push('palam');
 lastBench.push('nalam');
-// console.log(lastBench);
+console.log(lastBench);
 
 var friendsAge = [11, 13, 17, 12];
 // friendsAge.push(15);

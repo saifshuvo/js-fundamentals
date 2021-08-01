@@ -10,4 +10,5 @@ var vowels = ['a', 'e', 'i', 'o', 'u'];
 
 // console.log(nayikas.length);
 var vowelsCount = vowels.length;
-console.log(vowelsCount)
+console.log(vowelsCount);
+console.log(friendsAge);
